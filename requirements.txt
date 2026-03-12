@@ -1,0 +1,2 @@
+bleak>=0.21.0
+mlx-whisper>=0.4.0
